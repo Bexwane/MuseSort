@@ -1,0 +1,20 @@
+MuseSort License
+
+MuseSort is proprietary software. All rights reserved.
+
+You are granted a personal, non-exclusive, non-transferable license to download and use the MuseSort application (the “Software”) provided in this repository.
+
+Permitted Use
+	•	You may install and use the Software for personal use.
+	•	You may share links to the official GitHub repository.
+
+Restrictions
+	•	You may not modify, redistribute, or sell the Software.
+	•	You may not host or repackage the Software for distribution.
+	•	You may not use the Software for any commercial purpose without written permission.
+
+Ownership
+
+MuseSort and all related source code, binaries, and materials remain the exclusive property of the author.
+
+For commercial licensing, contact: shubh1600005@gmail.com
